@@ -4,7 +4,7 @@ This login system is developed using HTML, JavaScript, and PHP, implementing ses
 
 ---
 
-## Setup and Running the System
+## Setup and Running the System 
 
 1. **Install XAMPP**
 
