@@ -1,0 +1,7 @@
+Array
+(
+    [fullname] => pedro
+    [email] => birubobiy@gmail.com
+    [password] => vagabond
+    [confirm_password] => vagabond
+)
